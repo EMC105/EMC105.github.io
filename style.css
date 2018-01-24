@@ -6,11 +6,13 @@ h1 { color: blue;
 
 ul.main-menu {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
 }
 ul.main-menu>li {
     display: inline;
+    color: navy;
+    
 }
 
 p { color: pink;
