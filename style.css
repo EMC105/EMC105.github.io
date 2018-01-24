@@ -5,11 +5,9 @@ h1 { color: blue;
 }
 ul.main-menu {
     list-style-type: none;
-    margin: 10;
-    padding: 10;
-    /* unvisited link */
-a:link {
-     color: navy;
+    margin: 50;
+    padding: 25;
+    color: navy;
 }
 /* visited link */
 a:visited {
