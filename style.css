@@ -7,10 +7,10 @@ ul.main-menu {
     list-style-type: none;
     margin: 50;
     padding: 25;
-    a:link {
-        color: lightblue;
-    }
+a:link {
+    color: lightblue;
 }
+
 /* visited link */
 a:visited {
     color: white;
