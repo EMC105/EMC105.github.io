@@ -8,10 +8,30 @@ ul.main-menu {
     list-style-type: none;
     margin: 10;
     padding: 10;
+    /* unvisited link */
+a:link {
+     color: navy;
+}
+
+/* visited link */
+a:visited {
+    color: slateblue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+    
 }
 ul.main-menu>li {
     display: inline;
-    color: navy;
+   
     
 }
 
