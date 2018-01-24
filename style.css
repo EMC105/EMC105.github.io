@@ -1,23 +1,23 @@
-body { background-color: lightblue;
+body { background-color: chalkboardgreen;
 }
-h1 { color: blue;
-    font-family: Courier;
+h1 { color: white;
+    font-family: Comic Sans Ms;
 }
 ul.main-menu {
     list-style-type: none;
     margin: 50;
     padding: 25;
     a:link {
-        color: navy;
+        color: lightblue;
     }
 }
 /* visited link */
 a:visited {
-    color: slateblue;
+    color: white;
 }
 /* mouse over link */
 a:hover {
-    color: hotpink;
+    color: white;
 }
 /* selected link */
 a:active {
@@ -28,9 +28,9 @@ ul.main-menu>li {
     display: inline;    
 }
 
-p { color: deepskyblue;
-    font-family: Courier;
+p { color: white;
+    font-family: Comic Sans Ms;
 }
 h2 { color: white; 
-    font-family: Courier
+    font-family: Comic Sans Ms;
 }
