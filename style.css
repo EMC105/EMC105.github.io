@@ -7,7 +7,9 @@ ul.main-menu {
     list-style-type: none;
     margin: 50;
     padding: 25;
-    color: navy;
+    a:link {
+        color: navy;
+    }
 }
 /* visited link */
 a:visited {
