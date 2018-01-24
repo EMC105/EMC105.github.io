@@ -3,7 +3,6 @@ body { background-color: lightblue;
 h1 { color: blue;
     font-family: Courier;
 }
-
 ul.main-menu {
     list-style-type: none;
     margin: 10;
@@ -12,27 +11,21 @@ ul.main-menu {
 a:link {
      color: navy;
 }
-
 /* visited link */
 a:visited {
     color: slateblue;
 }
-
 /* mouse over link */
 a:hover {
     color: hotpink;
 }
-
 /* selected link */
 a:active {
     color: white;
-}
-    
+}    
 }
 ul.main-menu>li {
-    display: inline;
-   
-    
+    display: inline;    
 }
 
 p { color: deepskyblue;
