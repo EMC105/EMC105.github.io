@@ -7,27 +7,7 @@ ul.main-menu {
     list-style-type: none;
     margin: 50;
     padding: 25;
-a:link {
-    color: lightblue;
 }
-
-/* visited link */
-a:visited {
-    color: white;
-}
-/* mouse over link */
-a:hover {
-    color: white;
-}
-/* selected link */
-a:active {
-    color: white;
-}    
-}
-ul.main-menu>li {
-    display: inline;    
-}
-
 p { color: white;
     font-family: Comic Sans Ms;
 }
