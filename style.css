@@ -1,4 +1,6 @@
-h1 { color: blue; }
+h1 { color: blue;
+    font-family: Courier;
+}
 
 ul.main-menu {
     list-style-type: none;
@@ -9,5 +11,9 @@ ul.main-menu>li {
     display: inline;
 }
 
-p { color: pink; }
-h2 { color: green; }
+p { color: pink;
+    font-family: Courier;
+}
+h2 { color: green; 
+    font-family: Courier
+}
