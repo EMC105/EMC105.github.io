@@ -13,6 +13,11 @@ ul.main-menu {
     border-color: white;
     
 }
+li.portfolio {
+     border-style: dotted;
+    border-color: white;
+}
+    
 h2 { color: white; 
     font-family: Comic Sans Ms;
 }
