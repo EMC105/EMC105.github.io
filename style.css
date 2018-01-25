@@ -5,10 +5,11 @@ h1 { color: white;
 }
 ul.main-menu {
     list-style-type: none;
+    color: white;
     margin: 50;
     padding: 25;
     font-family: Comic Sans Ms;
-    color: white;
+    
 }
 h2 { color: white; 
     font-family: Comic Sans Ms;
