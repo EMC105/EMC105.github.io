@@ -34,16 +34,18 @@ main{
     background-color: ivory;
     }
 h2 {
-    float: left;
     color: DarkTurquoise; 
     font-family: Courier new;
     padding: 20;
+    float: left;
 }
 p { 
     color: DarkTurquoise;
     font-family: Courier new;
+    float: left;
 }
 footer {
     color: DarkTurquoise;
     font-family: Courier new;
+    float: left;
 }
