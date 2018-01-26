@@ -25,6 +25,9 @@ li a{
 li a:hover {
     background-color: Aquamarine;
 }
+hr {
+    color: Aquamarine;
+}
 main{
     background-color: ivory;
     }
