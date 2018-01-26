@@ -21,6 +21,7 @@ li a{
 }
 li a:hover {
     background-color: Aquamarine;
+    padding: 20;
 }
 main{
     background-color: ivory;
