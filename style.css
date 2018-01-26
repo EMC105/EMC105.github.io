@@ -38,8 +38,10 @@ h2{
 p{ 
     color: DarkTurquoise;
     font-family: Courier new;
+    float: left;
 }
 footer{
     color: DarkTurquoise;
     font-family: Courier new;
+    floa: left;
 }
