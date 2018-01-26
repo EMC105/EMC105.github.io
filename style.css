@@ -32,6 +32,7 @@ main{
 h2{
     color: DarkTurquoise; 
     font-family: Courier new;
+    float:left;
 }
 p{ 
     color: DarkTurquoise;
