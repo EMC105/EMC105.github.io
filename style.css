@@ -6,7 +6,7 @@ h1 { color: DarkTurquoise;
 ul.main-menu {
     list-style-type: none;
     margin: 0;
-    padding: 50;
+    padding: 0;
     font-family: Courier new;
 }
 li {
@@ -17,7 +17,10 @@ li a{
     color: MediumSeaGreen;
     text-align: center;
     text-decoration: none;
-    padding: 30;
+    bottom-padding: 30;
+    top-padding: 20;
+    right-padding: 30;
+    left-padding: 30;
 }
 li a:hover {
     background-color: Aquamarine;
@@ -33,10 +36,12 @@ h2 {
     margins
 }
 p { 
+   display: inline-block;
     color: DarkTurquoise;
     font-family: Courier new;
 }
 footer {
+    display: inline-block;
     color: DarkTurquoise;
     font-family: Courier new;
 }
