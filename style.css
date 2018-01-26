@@ -17,26 +17,25 @@ li a{
     color: MediumSeaGreen;
     text-align: center;
     text-decoration: none;
-    padding: 30;
+    padding: 50;
 }
 li a:hover {
-    background-color: Aquamarine;
-    padding: 20;
+    background-color: DarkTurquoise;
 }
 main{
     background-color: ivory;
     }
 h2 {
     display: inline-block;
-    color: Aquamarine; 
+    color: MediumSeaGreen; 
     font-family: Courier new;
     padding: 10;
 }
 p { 
-    color: Aquamarine;
+    color: MediumSeaGreen;
     font-family: Courier new;
 }
 footer {
-    color: Aquamarine;
+    color: MediumSeaGreen;
     font-family: Courier new;
 }
