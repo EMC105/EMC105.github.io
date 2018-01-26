@@ -27,15 +27,15 @@ main{
     }
 h2 {
     display: inline-block;
-    color: DarkTurquoise; 
+    color: Aquamarine; 
     font-family: Courier new;
     padding: 10;
 }
 p { 
-    color: DarkTurquoise;
+    color: Aquamarine;
     font-family: Courier new;
 }
 footer {
-    color: DarkTurquoise;
+    color: Aquamarine;
     font-family: Courier new;
 }
