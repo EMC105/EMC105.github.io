@@ -33,15 +33,17 @@ main{
 h2{
     color: DarkTurquoise; 
     font-family: Courier new;
-    float:left;
+    text-align: left;
 }
 p{ 
     color: DarkTurquoise;
     font-family: Courier new;
+     text-align: left;
 
 }
 footer{
     color: DarkTurquoise;
     font-family: Courier new;
+     text-align: left;
 
 }
