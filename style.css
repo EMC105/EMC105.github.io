@@ -4,7 +4,7 @@ h1 { color: black;
     font-family: Comic Sans Ms;
 }
 ul.main-menu {
-    list-style-type: square;
+    list-style-type: none;
     font-color: black;
     margin: 0;
     padding: 0;
@@ -12,6 +12,21 @@ ul.main-menu {
     border-style: dotted;
     border-color: black;
 }
+
+li {
+    float: left;
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
     
 h2 { color: black; 
     font-family: Comic Sans Ms;
