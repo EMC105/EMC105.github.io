@@ -1,16 +1,15 @@
-body { background-color: green;
+body { background-color: ivory;
 }
-h1 { color: black;
-    font-family: Comic Sans Ms;
+h1 { color: DarkTurquoise;
+    font-family: Courier new;
 }
 ul.main-menu {
     list-style-type: none;
-    font-color: black;
     margin: 0;
     padding: 0;
-    font-family: Comic Sans Ms;
+    font-family: Courier new;
     border-style: dotted;
-    border-color: black;
+    border-color: DarkTurquoise;
 }
 
 li {
@@ -19,18 +18,18 @@ li {
 
 li a{
     display: inline-block;
-    color: yellow;
+    color: MediumSeaGreen;
     text-align: center;
     padding: 14;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: red;
+    background-color: Aquamarine;
     
-h2 { color: black; 
-    font-family: Comic Sans Ms;
+h2 { color: DarkTurquoise; 
+    font-family: Courier new;
 }
-p { color: black;
-    font-family: Comic Sans Ms;
+p { color: DarkTurquoise;
+    font-family: Courier new;
 }
