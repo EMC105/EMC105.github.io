@@ -27,16 +27,16 @@ main{
     }
 h2 {
     display: inline-block;
-    color: MediumSeaGreen; 
+    color: DarkTurquoise; 
     font-family: Courier new;
     float: left;
     margins
 }
 p { 
-    color: MediumSeaGreen;
+    color: DarkTurquoise;
     font-family: Courier new;
 }
 footer {
-    color: MediumSeaGreen;
+    color: DarkTurquoise;
     font-family: Courier new;
 }
