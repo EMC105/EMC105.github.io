@@ -20,16 +20,26 @@ li a{
     display: inline-block;
     color: MediumSeaGreen;
     text-align: center;
-    padding: 14;
+    padding-top: 10;
+    padding-right: 10;
+    padding-left: 10;
+    padding-bottom:10;
     text-decoration: none;
 }
 
 li a:hover {
     background-color: Aquamarine;
     
-h2 { color: DarkTurquoise; 
+h2 {
+    color: DarkTurquoise; 
+    font-family: Courier new;
+    padding: 20;
+}
+p { 
+    color: DarkTurquoise;
     font-family: Courier new;
 }
-p { color: DarkTurquoise;
+footer {
+    color: DarkTurquoise;
     font-family: Courier new;
 }
