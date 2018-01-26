@@ -29,8 +29,8 @@ li a:hover{
 main{
     background-color: ivory;
 }
+
 h2{
-    display: inline-Block;
     color: DarkTurquoise; 
     font-family: Courier new;
     float:left;
