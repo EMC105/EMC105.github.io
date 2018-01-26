@@ -30,7 +30,8 @@ li a{
 li a:hover {
     background-color: Aquamarine;
     
-h2 {
+h2{
+    float: left;
     color: DarkTurquoise; 
     font-family: Courier new;
     padding: 20;
