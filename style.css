@@ -29,8 +29,9 @@ li a{
 
 li a:hover {
     background-color: Aquamarine;
-main
-    {background-color: ivory;}
+main{
+    background-color: ivory;
+    }
 h2 {
     float: left;
     color: DarkTurquoise; 
