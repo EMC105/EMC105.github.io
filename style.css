@@ -12,6 +12,9 @@ ul.main-menu {
     border-style: dotted;
     border-color: black;
 }
+a.portfolio{
+    color:red;
+}
     
 h2 { color: black; 
     font-family: Comic Sans Ms;
