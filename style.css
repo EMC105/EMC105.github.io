@@ -13,7 +13,7 @@ ul.main-menu {
     border-color: white;
     
 }
-ul.portfolio {
+a.portfolio {
      border-style: dotted;
      border-color: white;
 }
