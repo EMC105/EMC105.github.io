@@ -4,18 +4,13 @@ h1 { color: white;
     font-family: Comic Sans Ms;
 }
 ul.main-menu {
-    list-style-type: none;
+    list-style-type: square;
     font-color: white;
     margin: 50;
     padding: 25;
     font-family: Comic Sans Ms;
     border-style: dotted;
     border-color: white;
-    
-}
-a.portfolio { 
-     border-style: dotted;
-     border-color: white;
 }
     
 h2 { color: white; 
