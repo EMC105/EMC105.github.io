@@ -20,7 +20,7 @@ li a{
     padding: 30;
 }
 li a:hover {
-    background-color: DarkTurquoise;
+    background-color: Aquamarine;
 }
 main{
     background-color: ivory;
@@ -29,7 +29,8 @@ h2 {
     display: inline-block;
     color: MediumSeaGreen; 
     font-family: Courier new;
-    padding: 10;
+    float: left;
+    margins
 }
 p { 
     color: MediumSeaGreen;
