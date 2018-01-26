@@ -31,9 +31,7 @@ main{
 h2 {
     color: DarkTurquoise; 
     font-family: Courier new;
-    position: absolute;
-    left: 0;
-    top: 150;
+    position: initial;
 }
 p { 
     color: DarkTurquoise;
