@@ -12,7 +12,8 @@ ul.main-menu {
     border-style: dotted;
     border-color: black;
 }
-a[href="/portfolio/"] { color: red }
+a[href="/portfolio/"] {
+    border-type: dotted;}
 }
     
 h2 { color: black; 
