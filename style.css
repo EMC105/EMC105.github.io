@@ -26,6 +26,7 @@ main{
     background-color: ivory;
     }
 h2 {
+    display: inline-block;
     color: DarkTurquoise; 
     font-family: Courier new;
     padding: 30;
