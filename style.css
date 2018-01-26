@@ -1,21 +1,21 @@
-body { background-color: black;
+body { background-color: white;
 }
-h1 { color: white;
+h1 { color: black;
     font-family: Comic Sans Ms;
 }
 ul.main-menu {
     list-style-type: square;
-    font-color: white;
+    font-color: black;
     margin: 50;
     padding: 25;
     font-family: Comic Sans Ms;
     border-style: dotted;
-    border-color: white;
+    border-color: black;
 }
     
-h2 { color: white; 
+h2 { color: black; 
     font-family: Comic Sans Ms;
 }
-p { color: white;
+p { color: black;
     font-family: Comic Sans Ms;
 }
