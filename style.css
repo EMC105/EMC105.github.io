@@ -3,6 +3,7 @@ body{ background-color: ivory;
 h1{ 
     color: DarkTurquoise;
     font-family: Courier new;
+    text-allign: center;
 }
 ul.main-menu{
     list-style-type: none;
