@@ -37,23 +37,23 @@ h2{
     color: DarkTurquoise; 
     font-family: Courier new;
     position: fixed;
-    top: 200;
-    left:0;
+    top: 150;
+    left:10;
           
 }
 p{ 
     color: DarkTurquoise;
     font-family: Courier new;
-     position: fixed;
-    top: 250;
-    left:0;
+    position: fixed;
+    top: 200;
+    left:10;
    
 
 }
 footer{
     color: DarkTurquoise;
     font-family: Courier new;
-     position: fixed;
+    position: fixed;
     bottom: 0;
     left:0;
     
