@@ -1,7 +1,7 @@
 body{ background-color: white;
 }
 h1{ 
-    color: dark grey;
+    color: MediumSeaGreen;
     font-family: Courier new;
     text-allign: center;
 }
@@ -18,7 +18,7 @@ li{
 li a{
     list-style-type: none;
     display: block;
-    color: black;
+    color: White;
     text-align: center;
     text-decoration: none;
     padding-left: 30;
@@ -27,7 +27,7 @@ li a{
     padding-bottom:10;
 }
 li a:hover{
-    background-color: Aquamarine;
+    background-color: MediumSeaGreen;
 }
 main{
     background-color: white;
@@ -57,7 +57,7 @@ p{
 
 }
 footer{
-    color: black;
+    color: MediumSeaGreen;
     font-family: Courier new;
     position: fixed;
     bottom: 0;
