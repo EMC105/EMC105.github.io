@@ -36,18 +36,18 @@ main{
 h2{
     color: DarkTurquoise; 
     font-family: Courier new;
-    font-size: 200;
+    font-size: 100;
     position: fixed;
-    top: 50;
+    top: 100;
     left:10;
           
 }
 p{
   color: DarkTurquoise; 
     font-family: Courier new;
-    font-size: 200;
+    font-size: 75;
     position: fixed;
-    top: 140;
+    top: 150;
     left:50;
 }
 
