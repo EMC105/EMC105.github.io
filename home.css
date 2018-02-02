@@ -1,7 +1,7 @@
-body{ background-color: ivory;
+body{ background-color: white;
 }
 h1{ 
-    color: DarkTurquoise;
+    color: dark grey;
     font-family: Courier new;
     text-allign: center;
 }
@@ -18,7 +18,7 @@ li{
 li a{
     list-style-type: none;
     display: block;
-    color: MediumSeaGreen;
+    color: black;
     text-align: center;
     text-decoration: none;
     padding-left: 30;
@@ -30,11 +30,11 @@ li a:hover{
     background-color: Aquamarine;
 }
 main{
-    background-color: ivory;
+    background-color: white;
 }
 
 h2{
-    color: DarkTurquoise; 
+    color: black; 
     font-family: Courier new;
     font-size: 100;
     font-weight: normal;
@@ -45,7 +45,7 @@ h2{
           
 }
 p{
-  color: DarkTurquoise; 
+  color: black; 
     font-family: Courier new;
     font-size: 75;
     position: fixed;
@@ -57,7 +57,7 @@ p{
 
 }
 footer{
-    color: DarkTurquoise;
+    color: black;
     font-family: Courier new;
     position: fixed;
     bottom: 0;
