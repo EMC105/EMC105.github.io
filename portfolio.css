@@ -1,6 +1,8 @@
 p {color: blue;
 }
 footer { 
-  float: left;
-  float: bottom;
+  position: fixed; 
+    bottom: 0;
+    right: 100;
+    width: 300;
 }
