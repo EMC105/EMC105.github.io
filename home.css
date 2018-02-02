@@ -28,7 +28,10 @@ li a{
     padding-bottom:10;
 }
 li a:hover{
-    background-color: lightGray;
+    background-color: black;
+    color: white;
+    
+    
 }
 main{
     background-color: white;
