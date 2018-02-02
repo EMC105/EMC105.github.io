@@ -36,7 +36,7 @@ main{
 p{
     color: DarkTurquoise; 
     font-family: Courier new;
-    font-size: 100;
+    font-size: 200;
     position: fixed;
     top: 150;
     left:10;
@@ -47,7 +47,7 @@ p1{
     font-family: Courier new;
     font-size: 50;
     position: fixed;
-    top: 170;
+    top: 200;
     left:50;
 }
 
