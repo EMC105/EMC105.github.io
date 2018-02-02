@@ -11,12 +11,12 @@ ul.main-menu{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: white;
 }
 
 li {
     float: left;
-    border-right:1px solid black;
+    border-right:1 solid black;
 }
 
 li:last-child {
@@ -34,31 +34,9 @@ li a {
 li a:hover:not(.active) {
     background-color: ivory;
 }
-
 .active {
-    background-color: red;
+    background-color: lightGray;
     font-family: Courier new;
-}
-li{
-    float: left;
-     list-style-type: none;
-}
-li a{
-    list-style-type: none;
-    display: block;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    padding-left: 30;
-    padding-right:30;
-    padding-top: 10;
-    padding-bottom:10;
-}
-li a:hover{
-    background-color: black;
-    color: white;
-    
-    
 }
 main{
     background-color: white;
