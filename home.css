@@ -49,7 +49,7 @@ h2{
           
 }
 p{
-  color: black; 
+    font-color: black; 
     font-family: Courier new;
     font-size: 75;
     position: fixed;
