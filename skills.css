@@ -1,1 +1,17 @@
 
+p {color: blue;
+}
+ul.main-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.main-menu>li {
+    display: inline;
+}
+footer { 
+  position: fixed; 
+    bottom: 0;
+    right: 500;
+    width: 300;
+}
