@@ -16,7 +16,7 @@ ul.main-menu{
 
 li {
     float: left;
-    border-right:1px solid black;
+    border-right:1 solid black;
 }
 
 li:last-child {
@@ -30,11 +30,9 @@ li a {
     padding: 14 16;
     text-decoration: none;
 }
-
 li a:hover:not(.active) {
-    background-color: ivory;
+    background-color: black;
 }
-
 .active {
     background-color: red;
     font-family: Courier new;
