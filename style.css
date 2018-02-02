@@ -53,6 +53,7 @@ p{
 footer{
     color: DarkTurquoise;
     font-family: Courier new;
+    position: Sticky;
     position: fixed;
     bottom: 0;
     left:10;
