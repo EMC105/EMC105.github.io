@@ -13,8 +13,10 @@ ul.main-menu{
 }
 li{
     float: left;
+     list-style-type: none;
 }
 li a{
+    list-style-type: none;
     display: block;
     color: MediumSeaGreen;
     text-align: center;
