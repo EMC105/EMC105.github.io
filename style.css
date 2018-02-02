@@ -37,15 +37,15 @@ h2{
     color: DarkTurquoise; 
     font-family: Courier new;
     position: fixed;
-    top: 50;
+    top: 100;
     left:0;
           
 }
 p{ 
     color: DarkTurquoise;
     font-family: Courier new;
-     position: relative;
-    top: 100;
+     position: fixed;
+    top: 150;
     left:0;
    
 
