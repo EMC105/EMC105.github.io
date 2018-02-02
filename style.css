@@ -15,7 +15,7 @@ li{
     float: left;
 }
 li a{
-    display: inline-block;
+    display: block;
     color: MediumSeaGreen;
     text-align: center;
     text-decoration: none;
@@ -34,7 +34,6 @@ main{
 h2{
     color: DarkTurquoise; 
     font-family: Courier new;
-    text-align: left;
 }
 p{ 
     color: DarkTurquoise;
