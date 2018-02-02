@@ -37,6 +37,7 @@ h2{
     color: DarkTurquoise; 
     font-family: Courier new;
     font-size: 100;
+    font-weight: normal;
     position: fixed;
     top: 100;
     left:10;
