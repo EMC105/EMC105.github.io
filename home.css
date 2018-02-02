@@ -33,21 +33,25 @@ main{
     background-color: ivory;
 }
 
-h2{
+p{
     color: DarkTurquoise; 
     font-family: Courier new;
+    font-size: 100;
     position: fixed;
     top: 150;
     left:10;
           
 }
-p{ 
-    color: DarkTurquoise;
+p1{
+  color: DarkTurquoise; 
     font-family: Courier new;
+    font-size: 50;
     position: fixed;
-    top: 200;
-    left:10;
-   
+    top: 170;
+    left:50;
+}
+
+    
 
 }
 footer{
