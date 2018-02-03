@@ -1,7 +1,38 @@
 p {color: blue;
    font-size: 20;
 }
-
+ul.main-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+    border-right:dotted;
+    border-color: black;
+}
+li:last-child {
+    border-right: none;
+}
+li a {
+    list-style-type: none;
+    display: block;
+    color:black;
+    text-align: center;
+    padding-left: 30;
+    padding-right:30;
+    padding-top: 10;
+    padding-bottom:10;  
+}
+li a:hover:not(.active) {
+    background-color: black;
+   
+}
+li a:hover:(.active) {
+    background-color: red;
+    font-family: Courier new;
+    color: white;
 }
 footer { 
   position: fixed; 
