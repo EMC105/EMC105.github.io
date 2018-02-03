@@ -1,7 +1,9 @@
 p {color: blue;
     font-size:20;
-    padding-right:30;
+    position: realtive
     padding-top:20;
+    padding-right:30;
+    
 }
 footer { 
   position: fixed; 
