@@ -1,13 +1,7 @@
 
 p {color: blue;
+    font-size: 20;
 }
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-ul.main-menu>li {
-    display: inline;
 }
 footer { 
   position: fixed; 
