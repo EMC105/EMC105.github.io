@@ -36,17 +36,28 @@ li a {
 li a:hover:not(.active) {
     background-color: black;
     color:white;
-   
 }
-li a:hover:(.active) {
-    background-color: red;
-    font-family: Courier new;
-    color: white;
+nav li:nth-child(1) a {
+  background: red;
+}
+
+nav li:nth-child(2) a {
+  background: orange;
+}
+
+nav li:nth-child(3) a {
+  background: yellow;
+}
+
+nav li:nth-child(4) a {
+  background: green;
+}
+nav li:nth-child(4) a {
+    background:blue;
 }
 main{
     background-color: white;
 }
-
 h2{
     color: black; 
     font-family: Courier new;
