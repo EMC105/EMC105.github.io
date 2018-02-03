@@ -33,27 +33,27 @@ li a {
     padding-bottom:10;
     text-decoration:none;
 }
-nav li:nth-child(1):hover:not(.active)a {
+li:nth-child(1):hover:not(.active)a {
     background-color: black;
     color:crimson;
 }
-nav li:nth-child(2):hover:not(.active)a {
+li:nth-child(2):hover:not(.active)a {
     background-color: black;
     color:orange;
 }
-nav li:nth-child(3):hover:not(.active)a {
+li:nth-child(3):hover:not(.active)a {
     background-color: black;
     color:yellow;
 }
-nav li:nth-child(4):hover:not(.active)a {
+li:nth-child(4):hover:not(.active)a {
     background-color: black;
     color:lightGreen;
 }
-nav li:nth-child(5):hover:not(.active)a {
+li:nth-child(5):hover:not(.active)a {
     background-color: black;
     color:lightBlue;
 }
-nav li:nth-child(6):hover:not(.active)a {
+li:nth-child(6):hover:not(.active)a {
     background-color: black;
     color:pink;
 }
