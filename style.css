@@ -17,6 +17,7 @@ li {
     float: left;
     border-right:dotted;
     border-color: black;
+    list-style-type:none;
 }
 li:last-child {
     border-right: none;
