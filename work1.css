@@ -1,9 +1,10 @@
+h1{
+    display:block;
+}
 p {color: blue;
     font-size:20;
-    position: realtive
     padding-top:20;
     padding-right:30;
-    
 }
 footer { 
   position: fixed; 
