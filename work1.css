@@ -35,6 +35,10 @@ ul.sample-menu {
     padding:0;
     margins:0;
 }   
+li a.sample{
+    color:red;
+    padding:0;
+}
 footer { 
    position: fixed; 
     bottom: 0;
