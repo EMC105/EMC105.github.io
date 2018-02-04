@@ -8,6 +8,7 @@ div{
     text-align:left;
     position:fixed;
     overflow: hidden;
+    padding: none;
 }
 footer { 
    position: fixed; 
