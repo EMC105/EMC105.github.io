@@ -19,6 +19,7 @@ h2{
     height:300;
     width: 300;
     right:300;
+    border-style:solid;
 }
 ul.sample-menu {
     list-style-type:none;
