@@ -28,7 +28,7 @@ h2{
     border-style:solid;
 }
 ul.sample-menu {
-    list-style-type:none;
+    list-style-type:circle;
     text-decoration: none;
     text-align:left;
     float:left;
@@ -38,13 +38,14 @@ ul.sample-menu {
 li a.sample{
     color:gold;
     text-type:bold;
-    text-size: 40;
+    text-size: 80;
     padding:0;
     margins:0;
     text-align:left;
-    list-style-type:circle;
+    text-decoration:none;
     display:block;
     text-indent:0;
+    border-style:none;
     
     
 }
