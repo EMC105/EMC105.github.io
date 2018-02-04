@@ -4,9 +4,11 @@ h2{
     font-style:bold;
 }
 div{
-    width: 200;
-    position: fixed;
-    right: 10;
+    width: 100;
+    text-align:left;
+    position:fixed;
+    right: 20;
+    top: 300;
 }
 footer { 
    position: fixed; 
