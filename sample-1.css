@@ -4,7 +4,7 @@ h2{
     font-style:bold;
 }
 div {
-    text-indent:none;
+    text-indent:0;
     padding:none;
 }
 footer { 
