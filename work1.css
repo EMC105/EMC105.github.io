@@ -16,6 +16,7 @@ ul.sample-menu {
     list-style-type:none;
     text-decoration: none;
     text-align:left;
+    float:left;
     padding:0;
     margins:0;
 }
