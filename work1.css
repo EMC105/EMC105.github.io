@@ -10,6 +10,7 @@ h2{
     left:50;
     height:300;
     width: 400;
+    border-style:dotted;
 }
 .sampleMenu{
     display: inline-block;
