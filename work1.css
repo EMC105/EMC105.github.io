@@ -22,9 +22,9 @@ h2{
     display: inline-block;
     position:fixed;
     top:300;
-    left: 800;
+    right:50;
     height:300;
-    width:300;
+    width:200;
     border-style:solid;
 }
 ul.sample-menu {
