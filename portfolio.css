@@ -35,6 +35,9 @@ li a:hover:(.active) {
     font-family: Courier new;
     color: white;
 }
+div{
+   border-style:dotted;
+}
 footer { 
   position: fixed; 
     bottom: 0;
