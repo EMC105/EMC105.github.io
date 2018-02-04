@@ -6,6 +6,7 @@ h2{
 div{
     width: 100;
     text-align:left;
+    flaot: left;
     position:fixed;
     top:300;
     right:100;
