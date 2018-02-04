@@ -47,6 +47,9 @@ li a.sample{
     text-align:center;
     text-decoration:none;
     display:block;
+    position:fixed;
+    top:350;
+    left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
@@ -62,8 +65,9 @@ li a.sample2{
     text-align:center;
     text-decoration:none;
     display:block;
-    position:relative;
-    top: 100;
+    position:fixed;
+    top: 500;
+    left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
