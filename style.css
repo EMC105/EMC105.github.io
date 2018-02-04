@@ -72,13 +72,15 @@ h2{
     left:10;
           
 }
-p{
-    color: black; 
-    font-family: Courier new;
-    font-size: 75;
-    position: fixed;
-    top: 250;
-    left:120;
+div{
+   border-style:dotted;
+   font-family:courier;
+   overflow:scroll;
+   position:fixed; 
+   top: 300;
+   left:50;
+   right:50;
+   padding: 20;
 }
 footer{
     color: black;
