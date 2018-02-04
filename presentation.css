@@ -1,5 +1,8 @@
-
-p {color: blue;
+h2{
+    color:pink;
+    font-style:bold;
+}
+p {color: black;
     font-size: 20;
     padding-top:20;
 }
@@ -10,4 +13,5 @@ footer {
     bottom: 0;
     right: 500;
     width: 300;
+    color:pink;
 }
