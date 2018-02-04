@@ -27,6 +27,7 @@ h2{
     width:200;
     border-style:solid;
     border-color:white;
+    over-flow:hidden;
 }
 ul.sample-menu {
     list-style-type:circle;
