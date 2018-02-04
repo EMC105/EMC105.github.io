@@ -27,7 +27,7 @@ h2{
     width:200;
     border-style:solid;
     border-color:white;
-    over-flow:hidden;
+    overflow:hidden;
 }
 ul.sample-menu {
     list-style-type:circle;
@@ -36,6 +36,7 @@ ul.sample-menu {
     float:left;
     padding:0;
     margins:0;
+    overflow:hidden;
 }   
 li a.sample{
     color:gold;
@@ -43,13 +44,15 @@ li a.sample{
     font-size: 20;
     padding:10;
     margins:10;
-    text-align:left;
+    text-align:center;
     text-decoration:none;
     display:block;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
     list-style-type:none;   
+    overflow:hidden;
+    
 }
 footer { 
    position: fixed; 
