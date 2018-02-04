@@ -82,9 +82,9 @@ p{
     left:120;
 }
 footer{
-    color: black;
+    color: crimson;
     font-family: Courier new;
     position: fixed;
     bottom: 0;
-    left:10;
+    left:10; 
 }
