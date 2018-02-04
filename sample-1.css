@@ -3,10 +3,9 @@ h2{
     color:black;
     font-style:bold;
 }
-p {color: black;
-    font-size:20;
-    padding-top:20;
-    padding-right:30;
+div {
+    text-indent:none;
+    padding:none;
 }
 footer { 
    position: fixed; 
