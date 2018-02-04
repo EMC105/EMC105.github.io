@@ -7,6 +7,8 @@ div{
     width: 100;
     text-align:left;
     position:fixed;
+    top:300;
+    left:500;
     overflow: hidden;
     padding: none;
 }
