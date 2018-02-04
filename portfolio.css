@@ -42,8 +42,8 @@ div{
    height:300;
    position:fixed; 
    top: 300;
-   left:10;
-
+   left:30;
+   right:30;
 }
 footer { 
   position: fixed; 
