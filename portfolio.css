@@ -36,6 +36,9 @@ li a:hover:(.active) {
     background-color: red;
     font-family: Courier new;
     color: white;
+p{
+   overflow:auto;
+   
 }
 footer { 
   position: fixed; 
