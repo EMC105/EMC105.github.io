@@ -1,7 +1,22 @@
 h2{
     display:block;
     color:gold;
-    font-style:bold;
+    font-style:bold; 
+}
+.normal{
+    display: inline-block;
+    position:fixed;
+    top:300;
+    left:50;
+    height:300;
+    width: 400;
+}
+.sampleMenu{
+    display: inline-block;
+    position:fixed;
+    top:300;
+    height:300;
+    width: 300;
 }
 ul.sample-menu {
     list-style-type:none;
