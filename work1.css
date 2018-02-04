@@ -38,11 +38,11 @@ ul.sample-menu {
 li a.sample{
     color:gold;
     text-type:bold;
+    text-size: 40;
     padding:0;
     margins:0;
     text-align:left;
-    list-style-type:none;
-    text-decoration:circle;
+    list-style-type:circle;
     display:block;
     text-indent:0;
     
