@@ -5,14 +5,19 @@ h2{
 }
 div{
     width: 100;
-    text-align:left;
-    float: left;
     position:fixed;
     top:300;
     right:100;
-    overflow: hidden;
-    padding: none;
+    text-align:left;
+    padding:0;
+    margins:0;
 }
+ul.sample-menu {
+    list-style-type:none;
+    text-decoration: none;
+    text-align:left;
+    padding:0;
+    margins:0;
 footer { 
    position: fixed; 
     bottom: 0;
