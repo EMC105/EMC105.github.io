@@ -37,8 +37,8 @@ ul.sample-menu {
 }   
 li a.sample{
     color:gold;
-    text-type:bold;
-    text-size: 80;
+    font-type:bold;
+    font-size: 30;
     padding:0;
     margins:0;
     text-align:left;
