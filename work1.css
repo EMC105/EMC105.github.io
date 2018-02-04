@@ -9,9 +9,7 @@ p {color: black;
     padding-right:30;
 }
 footer { 
-  position: fixed; 
+   position: fixed; 
     bottom: 0;
-    right: 500;
-    width: 300;
     color:gold;
 }
