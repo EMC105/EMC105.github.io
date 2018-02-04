@@ -3,23 +3,12 @@ h2{
     color:gold;
     font-style:bold;
 }
-div{
-    width: 300;
-    position:fixed;
-    top:300;
-    right:100;
-    text-align:left;
-    padding:0;
-    margins:0;
-}
 ul.sample-menu {
     list-style-type:none;
     text-decoration: none;
     text-align:left;
     float:left;
     padding:0;
-    margins:0;
-    text-indent:0;
 }
 footer { 
    position: fixed; 
