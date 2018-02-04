@@ -22,7 +22,7 @@ h2{
     display: inline-block;
     position:fixed;
     top:300;
-    right:50;
+    left:800;
     height:300;
     width:200;
     border-style:solid;
