@@ -35,17 +35,6 @@ li a:hover:(.active) {
     font-family: Courier new;
     color: white;
 }
-div{
-   height:700;
-   overflow-y: scroll;
-   display:block;
-   border-style: dotted;
-   color: black;
-   font-size: 20;
-   padding-right:30;
-   padding-top: 20;
-   text-indent: 20;
-}
 footer { 
   position: fixed; 
     bottom: 0;
