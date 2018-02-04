@@ -6,7 +6,7 @@ div {color: black;
    padding-right:30;
    padding-top: 20;
    text-indent: 20;
-   overflow-y: auto;
+   overflow-y: scroll;
    display:block;
 }
 ul.main-menu{
