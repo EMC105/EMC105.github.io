@@ -39,7 +39,6 @@ div{
    border-style:dotted;
    font-family:courier;
    overflow:scroll;
-   height:300;
    position:fixed; 
    top: 300;
    left:50;
