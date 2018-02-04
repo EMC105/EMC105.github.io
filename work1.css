@@ -20,6 +20,15 @@ ul.sample-menu {
     padding:0;
     margins:0;
 }
+ li{
+    float: left;
+    border-color: black;
+    list-style-type:none;  
+    margins:0;
+    padding:0;
+    text-decoration:none;
+    text-align:left;
+}    
 footer { 
    position: fixed; 
     bottom: 0;
