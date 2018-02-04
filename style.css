@@ -11,7 +11,7 @@ ul.main-menu{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: scroll;
+    overflow: none;
 }
 li {
     float: left;
@@ -79,6 +79,7 @@ p{
     position: fixed;
     top: 250;
     left:120;
+    overflow:scroll;
 }
 footer{
     color: black;
