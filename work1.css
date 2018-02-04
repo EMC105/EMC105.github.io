@@ -5,6 +5,7 @@ h2{
 }
 div{
     width: 200;
+    right: 10;
 }
 footer { 
    position: fixed; 
