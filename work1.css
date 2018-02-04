@@ -46,8 +46,7 @@ li a.sample{
     display:block;
     text-indent:0;
     border-style:none;
-    
-    
+    list-style-type:none;   
 }
 footer { 
    position: fixed; 
