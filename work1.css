@@ -38,14 +38,15 @@ ul.sample-menu {
 li a.sample{
     color:gold;
     font-type:bold;
-    font-size: 30;
+    font-size: 20;
     padding:0;
     margins:0;
     text-align:left;
     text-decoration:none;
     display:block;
     text-indent:0;
-    border-style:none;
+    border-style:dotted;
+    border-left-width:thick;
     list-style-type:none;   
 }
 footer { 
