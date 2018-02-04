@@ -1,1 +1,15 @@
-
+h2{
+    display:block;
+    color:black;
+    font-style:bold;
+}
+p {color: black;
+    font-size:20;
+    padding-top:20;
+    padding-right:30;
+}
+footer { 
+   position: fixed; 
+    bottom: 0;
+    color:black;
+}
