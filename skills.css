@@ -1,5 +1,9 @@
-
-p {color: blue;
+h2{
+    color:lightBlue;
+    font-style:bold;
+    
+}
+p {color: black;
     font-size: 20;
     padding-top:20;
 }
@@ -9,4 +13,6 @@ footer {
     bottom: 0;
     right: 500;
     width: 300;
+    color:lightBlue;
+    
 }
