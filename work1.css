@@ -33,12 +33,10 @@ li a {
     list-style-type: none;
     display: block;
     color:black;
-    text-align: center;
-    padding-left: 30;
-    padding-right:30;
-    padding-top: 10;
-    padding-bottom:10;
+    text-align: left;
     text-decoration:none;
+    padding:0;
+    margins:0;
 }
 footer { 
    position: fixed; 
