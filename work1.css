@@ -1,6 +1,6 @@
 h2{
     display:block;
-    color:yellow;
+    color:gold;
     font-style:bold;
 }
 p {color: black;
@@ -13,5 +13,5 @@ footer {
     bottom: 0;
     right: 500;
     width: 300;
-    color:yellow;
+    color:gold;
 }
