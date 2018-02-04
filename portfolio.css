@@ -37,6 +37,9 @@ li a:hover:(.active) {
 }
 div{
    border-style:dotted;
+   font-family:courier;
+   overflow:scroll;
+   height:300;
 }
 footer { 
   position: fixed; 
