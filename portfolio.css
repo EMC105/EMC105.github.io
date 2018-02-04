@@ -1,20 +1,6 @@
 h2{ color:orange;
    text-style:bold;
 }
-div{
-   height:700;
-   overflow-y: scroll;
-   display:block;
-   border-style: dotted;
-   
-}
-p {color: black;
-   font-size: 20;
-   padding-right:30;
-   padding-top: 20;
-   text-indent: 20;
-   
-}
 ul.main-menu{
     list-style-type: none;
     margin: 0;
@@ -48,6 +34,18 @@ li a:hover:(.active) {
     background-color: red;
     font-family: Courier new;
     color: white;
+}
+div{
+   height:700;
+   overflow-y: scroll;
+   display:block;
+   border-style: dotted;
+}
+p {color: black;
+   font-size: 20;
+   padding-right:30;
+   padding-top: 20;
+   text-indent: 20;
 }
 footer { 
   position: fixed; 
