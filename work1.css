@@ -6,9 +6,9 @@ h2{
 .normal{
     display: inline-block;
     position:fixed;
-    top:300;
-    left:50;
-    height:300;
+    top:400;
+    left:70;
+    height:400;
     width: 400;
     border-style:dotted;
 }
@@ -16,9 +16,9 @@ h2{
     display: inline-block;
     position:fixed;
     top:300;
+    left:300;
     height:300;
     width: 300;
-    right:300;
     border-style:solid;
 }
 ul.sample-menu {
