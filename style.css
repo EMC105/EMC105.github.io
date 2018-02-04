@@ -79,7 +79,6 @@ p{
     position: fixed;
     top: 250;
     left:120;
-    overflow:scroll;
 }
 footer{
     color: black;
