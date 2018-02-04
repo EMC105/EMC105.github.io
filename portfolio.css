@@ -1,8 +1,12 @@
+h2{ color:orange;
+   text-style:bold;
+}
 p {color: orange;
    font-size: 20;
    padding-right:30;
    padding-top: 20;
-   overflow:auto;
+   text-indent: 20;
+ 
 }
 ul.main-menu{
     list-style-type: none;
