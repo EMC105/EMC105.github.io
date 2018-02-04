@@ -52,7 +52,21 @@ li a.sample{
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
-    
+}
+li a.sample2{
+    color:gold;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
 }
 footer { 
    position: fixed; 
