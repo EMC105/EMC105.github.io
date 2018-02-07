@@ -12,6 +12,7 @@ ul.main-menu{
     margin: 0;
     padding: 0;
     overflow: none;
+    font-family:Courier new;
 }
 li {
     float: left;
