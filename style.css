@@ -19,6 +19,8 @@ li {
     border-right:dotted;
     border-color: black;
     list-style-type:none;
+    font-family: courier new;
+    font-style: bold;
 }
 li:last-child {
     border-right: none;
