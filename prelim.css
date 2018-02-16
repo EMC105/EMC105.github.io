@@ -15,7 +15,7 @@ h2{
    width: 700;
    padding: 20;
    letter-spacing: 3;
-   text-indent: 50;
+    text-indent: 0;
 }
 .sampleMenu{
     display: inline-block;
