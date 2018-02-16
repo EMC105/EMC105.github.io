@@ -17,6 +17,9 @@ h2{
    letter-spacing: 3;
    text-indent: 50;
 }
+p1{
+    text-indent: 20;
+}
 .sampleMenu{
     display: inline-block;
     position:fixed;
