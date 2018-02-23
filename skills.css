@@ -47,7 +47,7 @@ li a.Prelim{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:267;
+    top:300;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -65,7 +65,7 @@ li a.post2{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 417;
+    top: 450;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -83,7 +83,7 @@ li a.post3{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 567;
+    top: 600;
     left:800;
     text-indent:0;
     border-style:dotted;
