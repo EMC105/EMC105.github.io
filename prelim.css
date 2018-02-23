@@ -37,7 +37,7 @@ ul.sample-menu {
     margins:0;
     overflow:hidden;
 }   
-li a.sample{
+li a.post2{
     color:lightblue;
     font-type:bold;
     font-size: 20;
@@ -55,7 +55,7 @@ li a.sample{
     list-style-type:none;   
     overflow:hidden;
 }
-li a.sample2{
+li a.post3{
     color:lightblue;
     font-type:bold;
     font-size: 20;
