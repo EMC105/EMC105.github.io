@@ -47,7 +47,7 @@ li a.Prelim{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:200;
+    top:150;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -65,7 +65,7 @@ li a.post2{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 350;
+    top: 300;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -83,7 +83,7 @@ li a.post3{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 500;
+    top: 450;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -101,13 +101,14 @@ li a.Reflection{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:650;
+    top:600;
     left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
+}
 footer { 
    position: fixed; 
     bottom: 0;
