@@ -108,6 +108,7 @@ li a.Reflection{
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
+    boarder-color: lightblue;
 }
 footer { 
    position: fixed; 
