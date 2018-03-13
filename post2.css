@@ -20,13 +20,13 @@ h2{
 .sampleMenu{
     display: inline-block;
     position:fixed;
-    top:300;
+    top:299;
     left:800;
-    height:300;
+    height:1000;
     width:200;
     border-style:solid;
     border-color:white;
-    overflow:hidden;
+
 }
 ul.sample-menu {
     list-style-type:circle;
@@ -35,7 +35,6 @@ ul.sample-menu {
     float:left;
     padding:0;
     margins:0;
-    overflow:hidden;
 }   
 li a.Prelim{
     color:lightblue;
