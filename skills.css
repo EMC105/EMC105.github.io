@@ -47,7 +47,7 @@ li a.Prelim{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:150;
+    top:200;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -84,7 +84,7 @@ li a.post3{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 450;
+    top: 400;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -102,7 +102,7 @@ li a.Reflection{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:600;
+    top:500;
     left:800;
     text-indent:0;
     border-style:dotted;
