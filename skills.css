@@ -3,6 +3,11 @@ h2{
     color:lightblue;
     font-style:bold; 
 }
+h2{
+    display:block;
+    color:lightblue;
+    font-style:bold; 
+}
 .normal{
    border-style:dotted;
    font-family:courier;
@@ -20,13 +25,13 @@ h2{
 .sampleMenu{
     display: inline-block;
     position:fixed;
-    top:299;
+    top:300;
     left:800;
-    height:1000;
+    height:300;
     width:200;
     border-style:solid;
     border-color:white;
- 
+    overflow:hidden;
 }
 ul.sample-menu {
     list-style-type:circle;
@@ -35,8 +40,9 @@ ul.sample-menu {
     float:left;
     padding:0;
     margins:0;
+    overflow:hidden;
 }   
-li a.Prelim{
+li a.prelim{
     color:lightblue;
     font-type:bold;
     font-size: 20;
@@ -46,14 +52,13 @@ li a.Prelim{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:500;
+    top:300;
     left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
-    border-color: lightblue;
 }
 li a.post2{
     color:lightblue;
@@ -83,7 +88,7 @@ li a.post3{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 400;
+    top: 500;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -101,7 +106,7 @@ li a.Reflection{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:500;
+    top: 600;
     left:800;
     text-indent:0;
     border-style:dotted;
