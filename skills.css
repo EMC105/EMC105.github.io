@@ -47,7 +47,7 @@ li a.Prelim{
     text-decoration:none;
     display:block;
     position:fixed;
-    top:300;
+    top:200;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -65,7 +65,7 @@ li a.post2{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 450;
+    top: 350;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -83,7 +83,7 @@ li a.post3{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 600;
+    top: 500;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -91,6 +91,23 @@ li a.post3{
     list-style-type:none;   
     overflow:hidden;
 }
+li a.Reflection{
+    color:lightblue;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top:650;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
 footer { 
    position: fixed; 
     bottom: 0;
