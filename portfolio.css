@@ -35,7 +35,7 @@ li a:hover:(.active) {
     font-family: Courier new;
     color: white;
 }
-div{
+.normal{
    border-style:dotted;
    font-family:courier;
    overflow:scroll;
@@ -43,8 +43,11 @@ div{
    top: 300;
    left:50;
    right:50;
+   height:300;
+   width: 700;
    padding: 20;
-   
+   letter-spacing: 3;
+   text-indent: 50; 
 }
 footer { 
     position: fixed; 
