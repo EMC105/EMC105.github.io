@@ -84,10 +84,10 @@ div{
    font-family:courier;
    overflow:scroll;
    position:fixed; 
-   top: 300;
+   top: 200;
    left:50;
    right:50;
-   height:300;
+   height:400;
    padding: 20;
    letter-spacing: 3;
    text-indent: 50;
