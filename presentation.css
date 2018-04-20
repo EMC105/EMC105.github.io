@@ -2,11 +2,19 @@ h2{
     color:pink;
     font-style:bold;
 }
-p{
-    color: black; 
-    position: fixed;
-    top: 250;
-    left:120;
+.normal{
+   border-style:dotted;
+   font-family:courier;
+   overflow:scroll;
+   position:fixed; 
+   top: 300;
+   left:50;
+   right:50;
+   height:350;
+   width: 700;
+   padding: 20;
+   letter-spacing: 3;
+   text-indent: 50;
 }
 
 footer { 
