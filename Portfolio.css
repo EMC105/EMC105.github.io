@@ -64,7 +64,7 @@ li a.Visual_Mode{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 400;
+    top: 350;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -82,7 +82,7 @@ li a.Comparison{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 500;
+    top: 400;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -100,7 +100,7 @@ li a.Frustration{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 600;
+    top: 450;
     left:800;
     text-indent:0;
     border-style:dotted;
@@ -119,7 +119,7 @@ li a.Success{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 700;
+    top: 500;
     left:800;
     text-indent:0;
     border-style:dotted;
