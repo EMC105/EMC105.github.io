@@ -1,1 +1,24 @@
+h2{
+    color:purple;
+    font-style:bold;
+}
+.normal{
+   border-style:dotted;
+   font-family:courier;
+   overflow:scroll;
+   position:fixed; 
+   top: 300;
+   left:50;
+   right:50;
+   height:350;
+   width: 700;
+   padding: 10;
+   letter-spacing: 3;
+   text-indent: 0;
+}
 
+footer { 
+    position: fixed; 
+    bottom: 0;
+    color:purple;
+}
