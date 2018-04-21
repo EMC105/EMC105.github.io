@@ -74,7 +74,7 @@ li a.sample2{
     list-style-type:none;   
     overflow:hidden;
 }
-li a.Corona Take One{
+li a.audio{
     color:lightgreen;
     font-type:bold;
     font-size: 20;
@@ -83,16 +83,13 @@ li a.Corona Take One{
     text-align:center;
     text-decoration:none;
     display:block;
-    position:fixed;
-    top: 500;
-    left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
 }
-li a.Game Day Audio{
+li a.audio1{
     color:lightgreen;
     font-type:bold;
     font-size: 20;
@@ -101,9 +98,6 @@ li a.Game Day Audio{
     text-align:center;
     text-decoration:none;
     display:block;
-    position:fixed;
-    top: 500;
-    left:800;
     text-indent:0;
     border-style:dotted;
     border-left-width:thick;
