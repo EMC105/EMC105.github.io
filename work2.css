@@ -108,15 +108,19 @@ li a.audio1{
 }
 p.a {
     margin-bottom: 25px;
+    display:block;
 }
 p.b {
     margin-bottom: 25px;
+    display:block;
 }
 p.c {
     margin-bottom: 25px;
+    display:block;
 }
 p.d {
     margin-bottom: 25px;
+    display:block;
 }
 footer { 
    position: fixed; 
