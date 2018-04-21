@@ -74,13 +74,12 @@ li a.sample2{
     list-style-type:none;   
     overflow:hidden;
 }
-li a.audio{
+ a.audio{
     color:lightgreen;
     font-type:bold;
     font-size: 20;
     padding:10;
     margins:10;
-    text-align:center;
     text-decoration:none;
     display:block;
     text-indent:0;
@@ -90,13 +89,12 @@ li a.audio{
     overflow:hidden;
     position: static;
 }
-li a.audio1{
+ a.audio1{
     color:lightgreen;
     font-type:bold;
     font-size: 20;
     padding:10;
     margins:10;
-    text-align:center;
     text-decoration:none;
     display:block;
     text-indent:0;
@@ -106,19 +104,19 @@ li a.audio1{
     overflow:hidden;
     position: static;
 }
-p.a {
+p .a {
     margin-bottom: 25px;
     display:block;
 }
-p.b {
+p .b {
     margin-bottom: 25px;
     display:block;
 }
-p.c {
+p .c {
     margin-bottom: 25px;
     display:block;
 }
-p.d {
+p .d {
     margin-bottom: 25px;
     display:block;
 }
