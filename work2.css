@@ -106,6 +106,18 @@ li a.audio1{
     overflow:hidden;
     position: static;
 }
+p.a {
+    margin-bottom: 25px;
+}
+p.b {
+    margin-bottom: 25px;
+}
+p.c {
+    margin-bottom: 25px;
+}
+p.d {
+    margin-bottom: 25px;
+}
 footer { 
    position: fixed; 
     bottom: 0;
