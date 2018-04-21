@@ -89,6 +89,15 @@ li a.sample2{
     overflow:hidden;
     position: static;
 }
+     a.audio:hover:not(.active) {
+    background-color: black;
+    color:white;
+}
+     a.audio1:hover:not(.active) {
+    background-color: black;
+    color:white;
+
+}
  a.audio1{
     color:lightgreen;
     font-type:bold;
