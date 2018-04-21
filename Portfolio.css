@@ -16,7 +16,118 @@ h2{
    letter-spacing: 3;
    text-indent: 0;
 }
-
+.sampleMenu{
+    display: inline-block;
+    position:fixed;
+    top:300;
+    left:800;
+    height:300;
+    width:200;
+    border-style:solid;
+    border-color:white;
+    overflow:hidden;
+}
+ul.sample-menu {
+    list-style-type:circle;
+    text-decoration: none;
+    text-align:center;
+    float:left;
+    padding:0;
+    margins:0;
+    overflow:hidden;
+}   
+li a.Genre_Audience{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top:300;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
+li a.Visual_Mode{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 400;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
+li a.Comparison{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 500;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
+li a.Frustration{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 600;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+    border-color: MediumOrchid;
+}
+li a.Success{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 700;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+    border-color: MediumOrchid;
+}
 footer { 
     position: fixed; 
     bottom: 0;
