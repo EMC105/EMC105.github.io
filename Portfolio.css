@@ -1,5 +1,5 @@
 h2{
-    color:purple;
+    color:MediumOrchid;
     font-style:bold;
 }
 .normal{
@@ -20,5 +20,5 @@ h2{
 footer { 
     position: fixed; 
     bottom: 0;
-    color:purple;
+    color:MediumOrchid;
 }
