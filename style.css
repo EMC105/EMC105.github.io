@@ -65,6 +65,9 @@ nav li:nth-child(5) a {
 nav li:nth-child(6) a {
     background:pink;
 }
+nav li:nth-child(7) a {
+    background:purplr;
+}
 main{
     background-color: white;
 }
