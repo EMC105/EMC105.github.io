@@ -74,6 +74,42 @@ li a.sample2{
     list-style-type:none;   
     overflow:hidden;
 }
+li a.Corona Take One{
+    color:lightgreen;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 500;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
+li a.Game Day Audio{
+    color:lightgreen;
+    font-type:bold;
+    font-size: 20;
+    padding:10;
+    margins:10;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top: 500;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
 footer { 
    position: fixed; 
     bottom: 0;
