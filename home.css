@@ -16,6 +16,13 @@ ul.main-menu{
  ul.nav li.dropdown:hover ul.dropdown-menu {
             display: block;
 }
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color:green;
+    min-width: 160;
+    z-index: 1;
+}
 
 li {
     float: left;
