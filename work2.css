@@ -103,6 +103,7 @@ li a.audio1{
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
+    position: static;
 }
 footer { 
    position: fixed; 
