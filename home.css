@@ -13,6 +13,9 @@ ul.main-menu{
     overflow: hidden;
     background-color: #333;
 }
+ ul.nav li.dropdown:hover ul.dropdown-menu {
+            display: block;
+}
 
 li {
     float: left;
