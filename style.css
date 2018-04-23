@@ -46,27 +46,34 @@ li a:hover:not(.active) {
 }
 nav li:nth-child(1) a {
   background: crimson;
+  position: fixed;
 }
 
 nav li:nth-child(2) a {
   background: orange;
+  position: fixed;
 }
 
 nav li:nth-child(3) a {
   background: yellow;
+  position: fixed;
 }
 
 nav li:nth-child(4) a {
   background: lightGreen;
+  position: fixed;
 }
 nav li:nth-child(5) a {
     background:lightBlue;
+    position: fixed;
 }
 nav li:nth-child(6) a {
     background:pink;
+    position: fixed;
 }
 nav li:nth-child(7) a {
     background:MediumOrchid;
+    position: fixed;
 }
 main{
     background-color: white;
