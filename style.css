@@ -102,7 +102,7 @@ div{
 }
 footer{
     font-family: Courier new;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     text-align:right;
     right:10;
