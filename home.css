@@ -116,8 +116,7 @@ p1{
     position: fixed;
     top: 250;
     left:120;
-    width: 600;
-    overflow: visible;
+  
 }
 div{
     border-style:none;
