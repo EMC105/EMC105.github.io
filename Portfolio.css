@@ -54,6 +54,7 @@ li a.Final_Reflection{
     border-left-width:thick;
     list-style-type:none;   
     overflow:hidden;
+    border-color: MediumOrchid;
 }
 li a.Genre_Audience{
     color:MediumOrchid;
@@ -77,8 +78,8 @@ li a.Visual_Mode{
     color:MediumOrchid;
     font-type:bold;
     font-size: 20;
-    padding:10;
-    margins:10;
+    padding:5;
+    margins:5;
     text-align:center;
     text-decoration:none;
     display:block;
