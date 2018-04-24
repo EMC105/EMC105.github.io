@@ -110,12 +110,13 @@ h2{
   50% { border-color: black; }
 }
 p1{
-    color: black; 
+    color: black;
     font-family: Courier new;
     font-size: 75;
     position: fixed;
     top: 250;
     left:120;
+    width: 600;
 }
 div{
     border-style:none;
@@ -126,6 +127,7 @@ div{
    left:50;
    right:50;
    height:400;
+
    padding: 20;
    letter-spacing: 3;
 
