@@ -90,26 +90,7 @@ h2{
     position: fixed;
     top: 50;
     left:10;
-          
-}
-.typewriter p1 {
-  overflow: hidden;
-  boader: none;
-  white-space: nowrap; 
-  -webkit-animation-delay: 1.7s;
-  
-  animation: 
-    typing 3.5s steps(100, end),
-    blink-caret .75s step-end infinite;
-}
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: black; }
+         
 }
 p1{
     color: black;
