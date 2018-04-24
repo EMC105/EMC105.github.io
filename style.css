@@ -105,6 +105,8 @@ footer{
     font-family: Courier new;
     position: absolute;
     bottom: 0;
+    top: 900;
     text-align:right;
     right:10;
+    
 }
