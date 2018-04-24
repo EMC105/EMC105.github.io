@@ -11,7 +11,7 @@ h2{
    top: 250;
    left:50;
    right:50;
-   height:350;
+   height:400;
    width: 700;
    padding: 10;
    letter-spacing: 3;
@@ -139,7 +139,7 @@ li a.Success{
     text-decoration:none;
     display:block;
     position:fixed;
-    top: 585;
+    top: 58;
     left:800;
     text-indent:0;
     border-style:dotted;
