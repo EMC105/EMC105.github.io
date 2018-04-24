@@ -65,6 +65,7 @@ main{
 .typewriter h2 {
   overflow: hidden;
   boader: none;
+
   
   animation: 
     typing 3.5s steps(40, end),
@@ -95,6 +96,7 @@ h2{
   overflow: hidden;
   boader: none;
   white-space: nowrap; 
+  -webkit-animation-delay: 1.7s;
   
   animation: 
     typing 3.5s steps(100, end),
