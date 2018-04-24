@@ -94,9 +94,10 @@ h2{
 .typewriter p1 {
   overflow: hidden;
   boader: none;
+  white-space: nowrap; 
   
   animation: 
-    typing 10s steps(100, end),
+    typing 3.5s steps(100, end),
     blink-caret .75s step-end infinite;
 }
 @keyframes typing {
