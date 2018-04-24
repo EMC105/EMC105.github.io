@@ -22,7 +22,7 @@ h2{
     position:fixed;
     top:300;
     left:800;
-    height:300;
+    height:350;
     width:200;
     border-style:solid;
     border-color:white;
@@ -36,13 +36,31 @@ ul.sample-menu {
     padding:0;
     margins:0;
     overflow:hidden;
-}   
+}  
+li a.Final_Reflection{
+    color:MediumOrchid;
+    font-type:bold;
+    font-size: 20;
+    padding:5;
+    margins:5;
+    text-align:center;
+    text-decoration:none;
+    display:block;
+    position:fixed;
+    top:250;
+    left:800;
+    text-indent:0;
+    border-style:dotted;
+    border-left-width:thick;
+    list-style-type:none;   
+    overflow:hidden;
+}
 li a.Genre_Audience{
     color:MediumOrchid;
     font-type:bold;
     font-size: 20;
-    padding:10;
-    margins:10;
+    padding:5;
+    margins:5;
     text-align:center;
     text-decoration:none;
     display:block;
@@ -77,8 +95,8 @@ li a.Comparison{
     color:MediumOrchid;
     font-type:bold;
     font-size: 20;
-    padding:10;
-    margins:10;
+    padding:5;
+    margins:5;
     text-align:center;
     text-decoration:none;
     display:block;
@@ -95,8 +113,8 @@ li a.Frustration{
     color:MediumOrchid;
     font-type:bold;
     font-size: 20;
-    padding:10;
-    margins:10;
+    padding:5;
+    margins:5;
     text-align:center;
     text-decoration:none;
     display:block;
@@ -114,8 +132,8 @@ li a.Success{
     color:MediumOrchid;
     font-type:bold;
     font-size: 20;
-    padding:10;
-    margins:10;
+    padding:5;
+    margins:5;
     text-align:center;
     text-decoration:none;
     display:block;
