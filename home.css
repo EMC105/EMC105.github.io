@@ -63,7 +63,8 @@ main{
     background-color: white;
 }
 .typewriter h2 {
-  overflow: hidden; 
+  overflow: hidden; '
+  boader: none;
   
   animation: 
     typing 3.5s steps(40, end),
